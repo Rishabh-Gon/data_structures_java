@@ -1,9 +1,9 @@
-#How to execute
+# How to execute
 
 1. Download mypackage folder
 2. Execute javac LinkedList.java in terminal
 
-#About
+# About
 
 1. LinkedList class has 3 methods
 2. createNodeFirst() creates a node before the head of the Linked List
